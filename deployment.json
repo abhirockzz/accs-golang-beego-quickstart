@@ -1,0 +1,8 @@
+{
+  "memory": "1G",
+  "instances": 1,
+  "environment": {
+    "GOPATH": "$GOPATH:$APP_HOME",
+    "PATH": "$PATH:$GOPATH/bin"
+  }
+}
